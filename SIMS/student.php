@@ -39,8 +39,7 @@ if($result){
             <td>'.$major_code.'</td>
             <td>'.$email.'</td>
             <td>
-                <button><a href="update.php?
-                updateid='.$id.'">Update</a></button>
+                <button><a href="updatefrom.php">Update</a></button>
                 <button><a href="delete.php? 
                 deleteid='.$id.'">Delete</a></button>
             </td>
